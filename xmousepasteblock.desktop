@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Exec=/home/SoftwareI/MyShell/xmousepasteblock
+Exec=/home/SoftwareI/bin/xmousepasteblock
 Hidden=false
 NoDisplay=false
 X-GNOME-Autostart-enabled=true
